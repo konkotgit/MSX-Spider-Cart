@@ -7,6 +7,7 @@ You can use 8, 16 or 32KB ROM file.
 
 ## How to build cartridge
 
+
 #### 27C256 EPROM (MAX 32KB ROM)
 
 Solder only capacitor C1
