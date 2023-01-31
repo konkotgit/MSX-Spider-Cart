@@ -5,8 +5,10 @@ With this PCB you can build your own MSX ROM cartridges.
 
 You can use 8, 16 or 32KB ROM file.
 
-## How to build cartridge
+## Important 
+### To program the 32kB ROM correctly, you need to prepare the ROM file by swapping two 16kB blocks.
 
+## How to build cartridge
 
 #### 27C256 EPROM (MAX 32KB ROM)
 
