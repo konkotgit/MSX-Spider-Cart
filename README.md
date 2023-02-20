@@ -7,7 +7,7 @@ You can use 8, 16 or 32KB ROM file.
 
 ## Important 
 ### To program the 32kB ROM correctly, you need to prepare the ROM file by swapping two 16kB blocks.
-
+### You can use simple CLI tool [swapROM](https://github.com/konkotgit/MSX-Spider-Cart/tools/README.md "swapROM")
 ## How to build cartridge
 
 #### 27C256 EPROM (MAX 32KB ROM)
