@@ -1,4 +1,4 @@
-A simple tool for the windows commands line. Swapping two blocks in a 32kB ROM file.
+A simple tool for the windows command line. Swapping two blocks in a 32kB ROM file.
 
 Run it with the name of the ROM file as a parameter.
 
