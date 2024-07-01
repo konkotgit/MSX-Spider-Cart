@@ -6,7 +6,7 @@ With this PCB you can build your own MSX ROM cartridges.
 You can use 8, 16 or 32kB ROM file.
 
 
-**NEW! version with flash chip. [Spider Flash Cartridge](https://github.com/konkotgit/MSX-Spider-Flash-Cart "Spider Flash Cartridge")**
+# **NEW! version with flash chip. [Spider Flash Cartridge](https://github.com/konkotgit/MSX-Spider-Flash-Cart "Spider Flash Cartridge")**
 
 ## Important 
 
